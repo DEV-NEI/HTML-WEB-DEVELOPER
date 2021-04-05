@@ -1,6 +1,6 @@
 # HTML-WEB-DEVELOPER
-Treinamento HTML + CSS3
+##Treinamento HTML + CSS3 + JavaScript
 
-Projetos Web realizados na "Digital Innovation One".
+###Desenvolver websites utilizando HTML, CSS e JavaScript para desenvolvimento web front-end.
 
-Desenvolver websites utilizando HTML, CSS e JavaScript para desenvolvimento web front-end.
+#####Projetos Web realizados na "Digital Innovation One".
