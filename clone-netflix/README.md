@@ -1,4 +1,17 @@
-# HTML-WEB-DEVELOPER
-Recriando a interface do Netflix
+# Recriando a interface do Netflix
 
-Utilizado tecnologias como HTML5, CSS3 e JavaScript usando para posicionar os elementos o Flexbox e plugins Jquery.
+## Tecnologias utilizadas:
+1. HTML5
+1. CSS3
+1. JavaScript
+1. Framework Flexbox
+1. Plugins Jquery
+
+## Sobre
+Recriando a interface do Netflix.
+
+## Curso
+Aulas realizadas na **"Digital Innovation One".** 
+<p>HTML-WEB-DEVELOPER</p>
+
+___
