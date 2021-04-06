@@ -6,10 +6,10 @@ Desenvolver websites utilizando __HTML, CSS e JavaScript__ para desenvolvimento 
 Aulas realizadas na **"Digital Innovation One".** 
 
 ## Projetos Práticos
-- Página de perfil DEV-NEI 
-- Recriando a página inicial do Instagram
-- Recriando a Interface do Netflix
-- Construindo páginas para internet com Bootstrap
-- Recriando o jogo da cobrinha com JavaScript
+- [Página de perfil DEV-NEI](https://github.com/DEV-NEI/HTML-WEB-DEVELOPER/tree/main/curso-html5) 
+- [Recriando a página inicial do Instagram](https://github.com/DEV-NEI/HTML-WEB-DEVELOPER/tree/main/clone-instagran)
+- [Recriando a Interface do Netflix](https://github.com/DEV-NEI/HTML-WEB-DEVELOPER/tree/main/clone-netflix)
+- [Construindo páginas para internet com Bootstrap](https://github.com/DEV-NEI/HTML-WEB-DEVELOPER/tree/main/bootstrap)
+- [Recriando o jogo da cobrinha com JavaScript](https://github.com/DEV-NEI/HTML-WEB-DEVELOPER/tree/main/game-snake)
 ___
  
