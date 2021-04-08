@@ -1,4 +1,4 @@
-# Web Moderno Javascript
+# Web Moderno com JavaScript 2021 + projetos
 
 ## Tecnologias
  Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
