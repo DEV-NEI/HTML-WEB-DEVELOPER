@@ -1,7 +1,7 @@
 # HTML-WEB-DEVELOPER
 ## Treinamento HTML + CSS3 + JavaScript
 
-Desenvolver websites utilizando __HTML, CSS e JavaScript__ para desenvolvimento web front-end.
+Desenvolver websites utilizando __HTML, CSS e JavaScript__ para desenvolvimento web.
 ___
 ## Projetos Práticos
 - [Página de perfil DEV-NEI](https://github.com/DEV-NEI/HTML-WEB-DEVELOPER/tree/main/curso-html5) 
