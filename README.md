@@ -10,6 +10,6 @@ ___
 - [Construindo páginas para internet com Bootstrap](https://github.com/DEV-NEI/HTML-WEB-DEVELOPER/tree/main/aula_bootstrap)
 - [Recriando o jogo da cobrinha com JavaScript](https://github.com/DEV-NEI/HTML-WEB-DEVELOPER/tree/main/game-snake)
 ___
-Aulas realizadas na **"Digital Innovation One".** 
+
 
  
