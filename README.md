@@ -1,7 +1,7 @@
 # HTML-WEB-DEVELOPER
 ## Treinamento HTML + CSS3 + JavaScript
 
-Desenvolver websites utilizando __HTML, CSS e JavaScript__ para desenvolvimento e aplicações web.
+Desenvolver websites utilizando __HTML, CSS e JavaScript__ para desenvolvimento de aplicações web.
 ___
 ## Cursos
 1. [Curso Web Moderno Completo com JavaScript 2021 + Projetos](https://github.com/DEV-NEI/HTML-WEB-DEVELOPER/tree/main/web-moderno-javascript)
