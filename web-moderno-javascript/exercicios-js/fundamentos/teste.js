@@ -1,14 +1,12 @@
-const imprimirSoma = function(a, b) {
+// Função sem retorno
+function imprimirSoma(a, b){
     console.log(a + b)
 }
+imprimirSoma(3, 2)
 
-imprimirSoma(2, 3)
 
-
-const soma = (a, b) => {
-    return a +b
+// Funcao com retorno
+function soma(a, b=1){
+    return a + b
 }
-console.log(soma(2, 3))
-
-const subtracao = (a, b) => a - b 
-console.log(subtracao(5, 2))
+console.log(soma(2))
