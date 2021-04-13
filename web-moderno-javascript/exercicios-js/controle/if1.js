@@ -2,7 +2,6 @@ function soBoaNotica(nota) {
     if(nota >= 7) {
         console.log('Aprovado com ' + nota)
     }
-
 }
 
 soBoaNotica(8.1)
