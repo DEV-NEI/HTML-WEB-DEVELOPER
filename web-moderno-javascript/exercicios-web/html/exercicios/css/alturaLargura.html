@@ -5,9 +5,15 @@
     <meta charset="UTF-8">
     <title>Altura e Largura</title>
     <style>
+        html {
+            height: 100%;
+        }
+
         body {
             font-size: 40px;
             background-color: coral;
+            height: 100%;
+            margin: 0;
         }
 
         div {
@@ -16,6 +22,14 @@
 
         span {
             background-color: dodgerblue;
+        }
+
+        span, div {
+            width: 50%;  /* html considera a largura interira 100% a altura não */
+            height: 250px; /* unidades absolutas */
+            height: 50%;
+            display: block;           
+            
         }
     </style>
 </head>
