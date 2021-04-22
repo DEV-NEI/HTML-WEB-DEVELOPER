@@ -3,7 +3,7 @@
 ## Tecnologias utilizadas:
 1. HTML5
 1. CSS3
-1. Framework Flexbox
+1. Flexbox(Nativo CSS3)
 
 ## Sobre 
 Reconstrução da página inicial de login do Instagram.
