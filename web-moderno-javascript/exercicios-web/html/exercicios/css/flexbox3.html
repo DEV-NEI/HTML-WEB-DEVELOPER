@@ -6,7 +6,35 @@
     <title>Flexbox #03</title>
     <link rel="stylesheet" href="css/tag.css">
     <style>
-        /* ... */
+
+        div {
+            border: solid 5px dodgerblue;
+            font-size: 40px;
+        }
+
+        .flex-container div {
+            box-sizing: border-box;
+        }
+        
+        .flex-container {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .flex-container div {
+            flex-basis: 100px;  /* tamanho do elemento sempre no sentido no main axis */
+           width: 200px;   /* mais forte é o flex-basis (largura quando voc usar o flex-direction row se usar o flex-directon column é utilizar o width para a largura) */
+        }
+
+        .flex-container div:nth-child(4) {
+            /* propriedade de atalhos short cut */
+            /* grow shrink basis */
+            flex: 2 6 100px;
+        }
+
+        .flex-container {
+            width: 300px;
+        }
     </style>
 </head>
 
