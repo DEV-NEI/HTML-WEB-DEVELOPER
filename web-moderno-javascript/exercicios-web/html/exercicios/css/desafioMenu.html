@@ -94,26 +94,33 @@
         .destaque {
             background-color: #f50a31;
             color: #fff;
+                }
+
+        /* ============================== */
+        /* Solução com Flex Box           */
+        /* ============================== */
+
+        .cabecalho {
+            display: flex;
+            align-items: center;
+            justify-content:  space-between;
         }
 
-        @media(min-width: 679px) {
-            .menu-toggle {
-                display: none;
-            }
+        .menu {
+            flex-grow: 10;
         }
 
-        @media(max-width: 680px) {
-            .menu {
-                display: none;
-            }
+        .menu ul {
+            display: flex;
+            /* justify-content: space-around; */
+            
         }
 
-        @media(max-width: 910px) {
-            .autenticacao {
-                display: none;
-            }
+        .menu li {
+            margin: 0px 10px;
         }
 
+        
 
 
     </style>
@@ -126,9 +133,7 @@
                 <img src="http://files.cod3r.com.br/curso-web/logo.png" alt="Logo" />
             </a>
         </div>
-        <button class="menu-toggle">
-            <i class="fa fa-lg fa-bars"></i>
-        </button>
+       
         <nav class="menu">
             <ul>
                 <li>
