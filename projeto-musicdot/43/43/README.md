@@ -7,13 +7,13 @@
 
 
 ## Sobre 
-Treinamento e Desenvolvimento Web com HTML, CSS e JavaScript e distribuído gratuitamente exclusivamente pelo site da Caelum.
+Treinamento e Desenvolvimento Web com HTML, CSS e JavaScript.
 
-Baixe sempre a versão mais nova em: www.caelum.com.br/apostilas.
+Baixe a apostila sempre com a versão mais nova em: www.caelum.com.br/apostilas.
 
 
 ## Curso
-Curso WD-43 **"Caelum".** 
+Curso WD-43 **"Caelum"** distribuído gratuitamente.
 <p>HTML-WEB-DEVELOPER</p>
 
  
