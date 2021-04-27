@@ -1,5 +1,6 @@
 .rodape {
-    padding: 2em 5%;
+    padding-top: 2em;
+    padding-bottom: 2em;
 
     text-align: center;
     font-size: 0.7rem;
@@ -27,18 +28,14 @@
 }
 
 
-.rodape__item-midias-sociais {
-    
+.rodape__item-midias-sociais {    
     width: 2.62em;
-    margin: 0 .25em;
-    
+    margin: 0 .25em;    
 }
 
 
 .rodape__item-midias-sociais img {
-   width: 100%;
-        
-    
+   width: 100%;      
 }
 
 .rodape__titulo {
