@@ -19,12 +19,23 @@
             document.querySelectorAll(seletor).forEach(e => e.classList.remove('destaque'))
 
         selecionar('div')
-        deselecionar('*')
 
+        deselecionar('*')
         selecionar('.terceiro.ultimo')
-        deselecionar('*')
 
+        deselecionar('*')
         selecionar(':not(#primeiro)')
+
+        deselecionar('*')
+        selecionar(':nth-child(1)')
+
+        deselecionar('*')
+        selecionar('div:nth-of-type(1)')
+
+        deselecionar('*')
+        selecionar('[wb-attrib]')
+
+        deselecionar('*')
     </script>
 </body>
 </html>
